@@ -1,2 +1,2 @@
 # ANN_breast_cancer
-Predict breast detection using ANN 
+Predict breast cancer type detection using ANN 
